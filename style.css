@@ -1,0 +1,209 @@
+body {
+  background-color: white;
+}
+
+ul {
+  font-weight: 700;
+  color: black;
+}
+
+.nav-link {
+  color: black;
+}
+
+img {
+  margin-top: -10px;
+}
+
+.name {
+  color: rgb(255, 55, 0);
+  font-weight: bold;
+}
+
+.name h1 {
+  color: black;
+  font-weight: unset;
+}
+
+section {
+  margin-top: 50px;
+}
+.paragraph {
+  font-weight: 600;
+  color: gray;
+  font-size: medium;
+}
+
+.hire {
+  color: orangered;
+  font-size: medium;
+  font-weight: normal;
+}
+
+h2 {
+  font-size: medium;
+  font-weight: 600;
+  color: gray;
+}
+
+.gambarorang img {
+  margin-right: 96px;
+  margin-top: 10px;
+}
+
+.panah img {
+  margin-left: -13px;
+  margin-top: 3px;
+  width: 49;
+  height: 68;
+}
+
+.gambar1 img {
+  margin-top: 100px;
+  width: 598px;
+  height: 659px;
+}
+
+.gambar2 img {
+  width: 475px;
+  height: 320px;
+  margin-left: 56%;
+  margin-top: -1029px;
+}
+
+.gambar3 img {
+  width: 475px;
+  height: 320px;
+  margin-left: 56%;
+  margin-top: -400px;
+}
+
+.text-center {
+  font-size: 50px;
+  margin-top: 300px;
+}
+
+.about.text-center {
+  font-size: 50px;
+  margin-top: 50px;
+}
+
+.tahun1 {
+  font-size: 50px;
+  color: orangered;
+  margin-top: 100px;
+}
+
+h1.container {
+  font-size: 30px;
+}
+
+figcaption.blockquote {
+  font-size: 15px;
+  margin-top: -14;
+}
+
+.tahun2 {
+  font-size: 50px;
+  color: orangered;
+  text-align: center;
+  margin-top: -346px;
+}
+
+h1.text-center {
+  font-size: 30px;
+  margin-top: 0px;
+}
+
+figcaption.blockquote2 {
+  text-align: center;
+  font-size: 15px;
+  margin-top: -15px;
+}
+
+.techical {
+  text-align: center;
+}
+
+.tahun3 {
+  font-size: 50px;
+  color: orangered;
+  text-align: end;
+  margin-top: -270px;
+  margin-right: 90px;
+}
+
+figcaption.blockquote3 {
+  text-align: end;
+  font-size: 15px;
+  margin-top: 15px;
+}
+
+h1.container1 {
+  font-size: 30px;
+  margin-top: 2px;
+  margin-right: 70px;
+  text-align: end;
+}
+
+.gambar4 {
+  width: 1160px;
+  height: 625px;
+  margin: 5%;
+  margin-top: 200px;
+}
+
+.col-3 {
+  margin-left: 70px;
+  margin-top: 60px;
+  color: gray;
+}
+
+.kuas {
+  margin-left: 80px;
+  margin-top: 200px;
+}
+
+.instagram {
+  position: absolute;
+  margin-left: 400px;
+  margin-top: -100px;
+}
+
+.twitter {
+  position: absolute;
+  margin-left: 760px;
+  margin-top: -100px;
+}
+
+.linkedin {
+  position: absolute;
+  margin-left: 1060px;
+  margin-top: -109px;
+}
+
+.testimonials {
+  width: 934px;
+  height: 495px;
+  margin-left: 50px;
+  margin-top: 200px;
+}
+
+.testimonials h1 {
+  margin-top: -350px;
+  color: white;
+}
+
+.gambar7 {
+  height: 600px;
+  position: relative;
+  width: 1100px;
+  margin-left: 58%;
+  margin-top: -280px;
+}
+
+.contact h1 {
+  font-size: 50px;
+  margin-top: -10px;
+  margin-left: 500px;
+}
